@@ -108,7 +108,7 @@ This script implies that you rely on VmWare for virtualization. Just in case, I 
 - [Open Source Intelligence Techniques - 9th Edition (2022) - Michael Bazzell](https://inteltechniques.com/book1.html)
 
 ## CREDITS
-- [SOsintOps](https://github.com/SOsintOps) and [stanleyhal](https://github.com/stanleyhal) for developing and Customising the [Argos](https://github.com/SOsintOps/Argos) script suggesting the script's name!
+- [SOsintOps](https://github.com/SOsintOps) and [stanleyhal](https://github.com/stanleyhal) for developing and customising the [Argos](https://github.com/SOsintOps/Argos) script suggesting the script's name!
 
 ## LICENSES
 Please refer to the license files.
