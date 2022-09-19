@@ -1,7 +1,7 @@
 # OSINT ITALIA OSINT VM
 <img align="right" width="250" height="250" src="https://github.com/osintitalia/Artemis/blob/main/multimedia/images/osintitalia_logo.jpeg">
 
-This script, derived from the [argos scritp](https://github.com/SOsintOps/Argos), was created both to provide a working environment for the Associazione OsintItalia's members and learning purposes.
+This script, derived from the [argos script](https://github.com/SOsintOps/Argos), was created both to provide a working environment for the Associazione OsintItalia's members and learning purposes.
 We have loosely followed Michael Bazzell's suggestions in his own [book](https://inteltechniques.com/book1.html) and adapted them to the needs of an analyst operating in the European scenario.
 
 This script will setup the Virtual Machine by installing mostly of the scripts suggested by Michael and more other tools will be added in the future.
