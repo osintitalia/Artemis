@@ -1,10 +1,10 @@
 # OSINT ITALIA OSINT VM
 <img align="right" width="250" height="250" src="https://github.com/osintitalia/Artemis/blob/main/multimedia/images/osintitalia_logo.jpeg">
 
-This script will automatically set up an open source intelligence (OSINT) workstation starting from a clean Ubuntu* 22.04 LTS Virtual Machine/Workstation.\
-Best practices recommend using a new VM for each OSInt investigation.\
-There are several ready-made VMs available on the Internet. I wanted to study how to customise my own workstation following what Michael Bazzell suggest in his own book, [Open Source Intelligence Techniques - 9th Edition (2022)](https://inteltechniques.com/book1.html), about creating your own custom VM.\
-This script will setup the workstation by installing mostly of the scripts suggested by Michael and more and more other tools will be added in the future.
+This script, derived from [argos](https://github.com/SOsintOps/Argos), was created both to provide a working environment for the Associazione OsintItalia's members and learning purposes.
+We have loosely followed Michael Bazzell's suggestions in his own [book](https://inteltechniques.com/book1.html) and adapted them to the needs of an analyst operating in the European scenario.
+
+This script will setup the Virtual Machine by installing mostly of the scripts suggested by Michael and more other tools will be added in the future.
 
 ## INDEX
 - [REQUIREMENTS](https://github.com/osintitalia/Artemis/blob/master/README.md#REQUIREMENTS)
@@ -55,7 +55,7 @@ This script implies that you rely on VmWare for virtualization. Just in case, I 
 - [Moriarty-Project V2.6](https://github.com/AzizKpln/Moriarty-Project)
 - [maigret](https://github.com/soxoj/maigret)
 - [Maltego](https://www.maltego.com/)
-- and more!
+- and more to come!
 
 ### General Purpose tools
 - [VLC](https://www.videolan.org/vlc/index.html)
