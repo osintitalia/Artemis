@@ -1,5 +1,5 @@
 # OSINT ITALIA OSINT VM
-<img align="right" width="86" height="150" src="https://github.com/osintitalia/Artemis/blob/master/multimedia/images/osintitalia_logo.jpeg">
+<img align="right" width="250" height="250" src="https://github.com/osintitalia/Artemis/blob/master/multimedia/images/osintitalia_logo.jpeg">
 
 This script will automatically set up an open source intelligence (OSINT) workstation starting from a clean Ubuntu* 22.04 LTS Virtual Machine/Workstation.\
 Best practices recommend using a new VM for each OSInt investigation.\
