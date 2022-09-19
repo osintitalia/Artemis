@@ -1,4 +1,4 @@
-# OSINT ITALIA OSINT VM
+# OSINTITALIA FOR GOOD VM
 <img align="right" width="250" height="250" src="https://github.com/osintitalia/Artemis/blob/main/multimedia/images/osintitalia_logo.jpeg">
 
 This script, derived from the [argos script](https://github.com/SOsintOps/Argos), was created both to provide a working environment for the Associazione OsintItalia's members and learning purposes.
