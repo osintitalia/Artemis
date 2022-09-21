@@ -6,7 +6,7 @@ This script will setup the Virtual Machine by installing mostly of the scripts s
 
 We had loosely followed Michael Bazzell's suggestions in his book Open Source Intelligence Techniques - 7th Edition and adapted them to the needs of an analyst operating in the European scenario.
 
-We strongly suggest referring to the updated contents of the [Open Source Intelligence Techniques - 9th Edition](https://inteltechniques.com/book1.html) in order to improve. 
+We strongly suggest referring to the updated contents of the [Open Source Intelligence Techniques - 9th Edition](https://inteltechniques.com/book1.html) to improve this virtual machine's features. 
 
 
 ## INDEX
