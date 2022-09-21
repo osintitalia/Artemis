@@ -4,7 +4,7 @@
 This script, derived from the [argos script](https://github.com/SOsintOps/Argos), was created both to provide a working environment for the Associazione OsintItalia's members and learning purposes.
 This script will setup the Virtual Machine by installing mostly of the scripts suggested by Michael and more other tools will be added in the future.
 
-We had loosely followed Michael Bazzell's suggestions in his book Open Source Intelligence Techniques - 7th Edition and adapted them to the needs of an analyst operating in the European scenario. If are you looking for more updated contents, you can refer to the [Open Source Intelligence Techniques - 9th Edition](https://inteltechniques.com/book1.html). 
+We followed Michael Bazzell's suggestions in his book Open Source Intelligence Techniques - 7th Edition and adapted them to the needs of an analyst operating in the European scenario. If you are looking for more updated content, we strongly suggest you to refer to the [Open Source Intelligence Techniques - 9th Edition](https://inteltechniques.com/book1.html). 
 
 
 ## INDEX
